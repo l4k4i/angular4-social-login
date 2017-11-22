@@ -1,0 +1,2 @@
+SMSESSION=fraunhofer:sec;path=/;secure;domain=igd.fraunhofer.de
+JSESSIONID=fraunhofer:sec;path=/;secure;domain=igd.fraunhofer.de

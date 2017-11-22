@@ -17,6 +17,7 @@ export class DemoComponent implements OnInit {
 
   ngOnInit() {
     this.authService.authState.subscribe((user) => {
+        console.log(this.user)
       this.user = user;
     });
   }
